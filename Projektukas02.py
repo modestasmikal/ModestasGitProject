@@ -1,0 +1,1 @@
+print("Bandymas ohoho")
